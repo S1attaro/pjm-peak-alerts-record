@@ -1,0 +1,9 @@
+cost_per_alert_day,method,caught,possible,alerts,net_per_MW_per_season
+487,Threshold rule,35,35,130,112665
+487,This service,35,35,76,116420
+1217,Threshold rule,34,35,127,96147
+1217,This service,35,35,76,108492
+2434,Threshold rule,34,35,121,76153
+2434,This service,35,35,76,95278
+4868,Threshold rule,30,35,97,36859
+4868,This service,34,35,71,68851

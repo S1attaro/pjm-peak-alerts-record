@@ -1,0 +1,2 @@
+# keep exact bytes so the SHA-256 seals check out on every OS
+* -text

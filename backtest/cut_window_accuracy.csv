@@ -1,0 +1,9 @@
+days,n_days,window_hours,pjm_forecast_hit,model_hit
+real peak days,55,1,0.618,0.636
+real peak days,55,2,0.873,0.909
+real peak days,55,3,0.964,0.982
+real peak days,55,4,0.982,1.0
+all high-load days,281,1,0.665,0.658
+all high-load days,281,2,0.868,0.868
+all high-load days,281,3,0.943,0.94
+all high-load days,281,4,0.975,0.979
