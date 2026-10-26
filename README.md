@@ -13,7 +13,7 @@ This repo is the public, timestamped record of every call. The model itself is p
 
 No live season scored yet. The first live season starts Dec 1, 2026.
 
-Updated 2026-10-25. Details: [`scorecard.json`](scorecard.json).
+Updated 2026-10-26. Details: [`scorecard.json`](scorecard.json).
 
 ## How to check the record
 
