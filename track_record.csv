@@ -1,2 +1,4 @@
 run_date,target_date,days_ahead,status,peak_chance,call,model_version
 2026-10-24,2026-10-25,1,off season,,,v1.1 (frozen 2026-10-24)
+2026-10-24,2026-10-26,2,off season,,,v1.1 (frozen 2026-10-24)
+2026-10-25,2026-10-26,1,off season,,,v1.1 (frozen 2026-10-24)
