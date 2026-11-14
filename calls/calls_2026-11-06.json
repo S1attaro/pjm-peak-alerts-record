@@ -1,0 +1,48 @@
+{
+  "days": [
+    {
+      "call": null,
+      "date": "2026-11-07",
+      "days_ahead": 1,
+      "peak_chance": null,
+      "status": "off season"
+    },
+    {
+      "call": null,
+      "date": "2026-11-08",
+      "days_ahead": 2,
+      "peak_chance": null,
+      "status": "off season"
+    },
+    {
+      "call": null,
+      "date": "2026-11-09",
+      "days_ahead": 3,
+      "peak_chance": null,
+      "status": "off season"
+    },
+    {
+      "call": null,
+      "date": "2026-11-10",
+      "days_ahead": 4,
+      "peak_chance": null,
+      "status": "off season"
+    },
+    {
+      "call": null,
+      "date": "2026-11-11",
+      "days_ahead": 5,
+      "peak_chance": null,
+      "status": "off season"
+    },
+    {
+      "call": null,
+      "date": "2026-11-12",
+      "days_ahead": 6,
+      "peak_chance": null,
+      "status": "off season"
+    }
+  ],
+  "model_version": "v1.1 (frozen 2026-10-24)",
+  "run_date": "2026-11-06"
+}
